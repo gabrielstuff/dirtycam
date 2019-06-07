@@ -1,0 +1,7 @@
+{
+  "appId": "com.socialite.systems",
+  "appName": "cam",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
